@@ -1,9 +1,9 @@
-## Hola Yo soy MarVin-Marcus Vinicius 👋
+## Hola Yo soy MarVin-Marcus Vinicius 👋😎
 
-- 🔭 hoy yo estudio programacion
-- 🌱 Estudiando html , css y js
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 Soy Estudiante junior de Programacion.
+- 💻 Estudiando html , css y js.
+- 🌱 Empezé la primera web
+- ☝🏽😎 Acepto Ayuda , cripticas y Motivacion ...
 
 <div>
    <a href="https://www.instagram.com/marvin_estudos/s">
