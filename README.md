@@ -9,8 +9,7 @@
    <a href="https://www.instagram.com/marvin_estudos/s">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarVin-MarcusVinicius&show_icons=false&theme=dracula&include_all_comits=true&count_private=true"/>
      <img height="180em" src="http://github-readme-stats.vercel.app/api/top-langs/?user=MarVin-MarcusVinicius&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-<img width="995" height="251" alt="turmacompletasinfundo" src="https://github.com/user-attachments/assets/72200ed1-b252-4828-b757-338200c998b6" />
+   </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,9 +20,8 @@
   
 </div>
 
-https://github.com/user-attachments/assets/d1a34274-b937-43d4-9e1e-9de48b3dfb69
 
-
+<img width="3604" height="3604" alt="marcus" src="https://github.com/user-attachments/assets/5e07803b-1812-4756-9f7e-c2e835b56c99" />
 
  ##
  
