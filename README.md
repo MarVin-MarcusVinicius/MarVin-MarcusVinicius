@@ -10,6 +10,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarVin-MarcusVinicius&show_icons=false&theme=dracula&include_all_comits=true&count_private=true"/>
      <img height="180em" src="http://github-readme-stats.vercel.app/api/top-langs/?user=MarVin-MarcusVinicius&layout=compact&langs_count=16&theme=dracula"/>
 </div>
+<img width="995" height="251" alt="turmacompletasinfundo" src="https://github.com/user-attachments/assets/72200ed1-b252-4828-b757-338200c998b6" />
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
