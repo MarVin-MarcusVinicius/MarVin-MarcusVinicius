@@ -20,9 +20,6 @@
   
 </div>
 
-
-<img width="3604" height="3604" alt="marcus" src="https://github.com/user-attachments/assets/5e07803b-1812-4756-9f7e-c2e835b56c99" />
-
  ##
  
 <div> 
@@ -34,3 +31,4 @@
   <a href="https://www.linkedin.com/in/(aqui usuario)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+<img width="3604" height="3604" alt="marcus" src="https://github.com/user-attachments/assets/5e07803b-1812-4756-9f7e-c2e835b56c99" />
