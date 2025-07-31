@@ -31,4 +31,5 @@
   <a href="https://www.linkedin.com/in/(aqui usuario)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-<img width="3604" height="3604" alt="marcus" src="C:\Users\marcus\Pictures\Screenshots\fundogithubtrello.png" />
+<img width="1898" height="1072" alt="fundogithubtrello" src="https://github.com/user-attachments/assets/e66d38c2-064c-4fa0-8d66-7ecf9c9d1a18"/>
+
