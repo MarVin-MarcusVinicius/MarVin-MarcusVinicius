@@ -1,7 +1,7 @@
 ## Hola Yo soy MarVin-Marcus Vinicius 👋😎
 
-- 🔭 Soy Estudiante de Programacion.
-- 💻 Estudiando html , css y javaScript.
+- 🔭 Soy Estudiante de Programacion FullStack.
+- 💻 Estudiando html , css, javaScript y React.
 - 🎨 Me encanta intentar Diseñar y editar ,pero soy iniciante.
 - 🌱 Empezé la primera web
 - ☝🏽😎 Acepto Ayuda , cripticas y Motivacion ...
